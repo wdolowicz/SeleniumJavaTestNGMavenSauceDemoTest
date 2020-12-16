@@ -6,10 +6,11 @@ Whole development was made on a Linux running machine (Pop!_OS 20.10) and thus i
 
 Must haves:
 
-1. JDK
+1. JDK (http://jdk.java.net/15/)
 2. JAVA_HOME environment variable properly set
 3. Maven (https://maven.apache.org/download.cgi)
-4. chromedriver v87 & TestNG - libs are included but in case of trouble, there might be a need to install those separately
+4. chromedriver v87, Selenium RC Standalone & TestNG - libs are included but in case of trouble, there might be a need to install those separately
+5. Google Chrome v87 (https://www.google.com/chrome/?brand=CHBD&brand=BNSD&gclid=CjwKCAiA_eb-BRB2EiwAGBnXXsuWg7CMa-6VZbpRAYsj6kgYnB8NREyJtx_ziwUjIIXqorp2IksBQxoCuHwQAvD_BwE&gclsrc=aw.ds)
 
 Usage:
 

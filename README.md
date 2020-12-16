@@ -15,7 +15,7 @@ Must haves:
 Usage:
 
 1. Clone repo
-2. Navigate to Test folder
+2. Navigate to main repo folder (/saucelabstest)
 3. Open terminal
 4. Execute following:
       mvn clean test -DsuiteXmlFile=testng.xml

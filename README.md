@@ -6,10 +6,10 @@ Whole development was made on a Linux running machine (Pop!_OS 20.10) and thus i
 
 Must haves:
 
--JDK
--JAVA_HOME environment variable properly set
--Maven (https://maven.apache.org/download.cgi)
--chromedriver & TestNG - libs are included but in case of trouble, there might be a need to install those separately
+1. JDK
+2. JAVA_HOME environment variable properly set
+3. Maven (https://maven.apache.org/download.cgi)
+4. chromedriver v87 & TestNG - libs are included but in case of trouble, there might be a need to install those separately
 
 Usage:
 
